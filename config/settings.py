@@ -141,6 +141,6 @@ CRISPY_TEMPLATE_PACK = 'bootstrap4'
 
 EMAIL_HOST = 'smtp.yandex.ru'
 EMAIL_PORT = '465'
-EMAIL_HOST_USER = 'alk-rk@yandex.ru'
-EMAIL_HOST_PASSWORD = 'ijosldfylykqrgnp'
+EMAIL_HOST_USER = '12314'
+EMAIL_HOST_PASSWORD = '12123'
 EMAIL_USE_SSL = True
